@@ -44,4 +44,5 @@ Modules cover parts databases, inventory tracking, versioned procedures with ste
 ## Contact
 
 Fediverse: <a rel="me" href="https://tech.lgbt/@amorphous">@amorphous@tech.lgbt</a>
+
 GitHub: [amorphous-engineering](https://github.com/amorphous-engineering)
