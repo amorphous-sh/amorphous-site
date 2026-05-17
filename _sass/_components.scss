@@ -6,6 +6,11 @@
   font-weight: 700;
 }
 
+// Mono utility for data-heavy fields (part numbers, IDs, timestamps)
+.mono {
+  font-family: $font-mono;
+}
+
 // Status badges
 .status {
   font-family: $font-mono;

@@ -1,5 +1,5 @@
 body {
-  font-family: $font-mono;
+  font-family: $font-sans;
   font-size: 14px;
   line-height: 1.6;
   color: $text;
@@ -53,6 +53,7 @@ hr {
 }
 
 code {
+  font-family: $font-mono;
   background: $bg-tertiary;
   border: 1px solid $border;
   padding: 1px $sp-4;

@@ -32,7 +32,7 @@ Amorphous Engineering is a group that builds software to make complex hardware f
 
 Modules cover parts databases, inventory tracking, versioned procedures with step-by-step execution, procurement workflows, and issue tracking. Onshape CAD integration provides bidirectional BOM and metadata sync. The interface prioritizes information density and explicit state over visual polish. Data tables, keyboard shortcuts, monospace layouts..
 
-<a href="https://github.com/CST-100/OPAL" class="product-link">View on GitHub</a>
+<a href="https://github.com/amorphous-engineering/OPAL" class="product-link">View on GitHub</a>
 
 ## Principles
 
