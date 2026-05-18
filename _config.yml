@@ -8,8 +8,11 @@ sass:
   sass_dir: _sass
   style: compressed
 
+permalink: /blog/:title/
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 
 exclude:
   - Gemfile

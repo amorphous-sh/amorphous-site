@@ -76,6 +76,26 @@ a.product-link {
   }
 }
 
+// Blog post layout
+.post-header {
+  margin-bottom: $sp-24;
+  padding-bottom: $sp-16;
+  border-bottom: 1px solid $border;
+}
+
+.post-meta {
+  margin-top: $sp-4;
+}
+
+.post-back {
+  margin-top: $sp-32;
+  padding-top: $sp-16;
+  border-top: 1px solid $border;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
 // Hold banner — labeled inline notice (e.g. "ON HOLD — awaiting <ID>")
 .hold-banner {
   border-left: 4px solid $accent-product;

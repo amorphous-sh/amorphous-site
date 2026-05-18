@@ -3,7 +3,7 @@ layout: default
 title: Amorphous Engineering
 ---
 
-{% include hold-banner.html label="NEWS" body="OPAL version 1.3.0 released. <a href='https://bigaouette.com/blog' class='mono'>Read more.</a>" %}
+{% include hold-banner.html label="NEWS" body="OPAL version 1.3.0 released. <a href='https://amorphous.engineering/blog/opal-v1-3-0-ships/' class='mono'>Read more.</a>" %}
 
 ## About
 
