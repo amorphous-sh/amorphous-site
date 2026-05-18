@@ -78,15 +78,15 @@ a.product-link {
 
 // Hold banner — labeled inline notice (e.g. "ON HOLD — awaiting <ID>")
 .hold-banner {
-  border-left: 4px solid $accent-warn;
-  background: mix($accent-warn, $bg, 12%);
+  border-left: 4px solid $accent-product;
+  background: mix($accent-product, $bg, 12%);
   padding: $sp-8 $sp-16;
   margin-bottom: $sp-16;
   font-family: $font-mono;
   font-size: 13px;
 
   strong {
-    color: $accent-warn;
+    color: $accent-product;
     font-weight: 700;
   }
 }
