@@ -3,6 +3,8 @@ layout: default
 title: Amorphous Engineering
 ---
 
+{% include hold-banner.html label="NEWS" body="OPAL version 1.3.0 released. <a href='https://bigaouette.com/blog' class='mono'>Read more.</a>" %}
+
 ## About
 
 Amorphous Engineering is a group that builds software to make complex hardware fly faster.

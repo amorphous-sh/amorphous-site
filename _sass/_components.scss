@@ -38,10 +38,11 @@
   }
 }
 
-// Tables
+// Tables (all cells are data → mono)
 table {
   width: 100%;
   border: 1px solid $border;
+  font-family: $font-mono;
   font-size: 13px;
   margin-bottom: $sp-16;
 
@@ -72,5 +73,20 @@ a.product-link {
 
   &:hover {
     border-bottom-color: $accent-product;
+  }
+}
+
+// Hold banner — labeled inline notice (e.g. "ON HOLD — awaiting <ID>")
+.hold-banner {
+  border-left: 4px solid $accent-warn;
+  background: mix($accent-warn, $bg, 12%);
+  padding: $sp-8 $sp-16;
+  margin-bottom: $sp-16;
+  font-family: $font-mono;
+  font-size: 13px;
+
+  strong {
+    color: $accent-warn;
+    font-weight: 700;
   }
 }
