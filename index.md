@@ -3,7 +3,7 @@ layout: default
 title: Amorphous Engineering
 ---
 
-{% include hold-banner.html label="NEWS" body="OPAL version 1.3.0 released. <a href='https://amorphous.engineering/blog/opal-v1-3-0-ships/' class='mono'>Read more.</a>" %}
+{% include hold-banner.html label="NEWS" body="OPAL version 1.3.0 released. <a href='https://amorphous.engineering/blog/opal-v1-3-release/' class='mono'>Read more.</a>" %}
 
 ## About
 
@@ -23,16 +23,16 @@ Amorphous Engineering is a group that builds software to make complex hardware f
     <tr>
       <td><a href="#opal" class="product-link">OPAL</a></td>
       <td><span class="status status--development">Active</span></td>
-      <td>Local-first ERP for small hardware teams.</td>
+      <td>Local-first ERP and MES for small hardware teams.</td>
     </tr>
   </tbody>
 </table>
 
 ## OPAL
 
-**Operations, Procedures, Assets, Logistics** — an ERP system for small hardware teams. OPAL runs on any computer in any environment: a shitty ThinkPad in the Mojave Desert, a Raspberry Pi in your closet, or an exe.dev VM for access anywhere.
+**Operations, Procedures, Assets, Logistics** — an ERP and MES system for small hardware teams. OPAL runs on any computer in any environment: a shitty ThinkPad in the Mojave Desert, a Raspberry Pi in your closet, or an exe.dev VM for access anywhere.
 
-Modules cover parts databases, inventory tracking, versioned procedures with step-by-step execution, procurement workflows, and issue tracking. Onshape CAD integration provides bidirectional BOM and metadata sync. The interface prioritizes information density and explicit state over visual polish. Data tables, keyboard shortcuts, monospace layouts..
+Modules cover parts databases, inventory tracking, versioned procedures with step-by-step execution, procurement workflows, and issue tracking. Onshape CAD integration provides bidirectional BOM and metadata sync.
 
 <a href="https://github.com/amorphous-engineering/OPAL" class="product-link">View on GitHub</a>
 

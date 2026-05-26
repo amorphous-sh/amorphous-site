@@ -9,10 +9,11 @@
   border-bottom: 1px solid $border;
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
 }
 
 .brand {
+  font-family: $font-mono;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
@@ -38,6 +39,7 @@
   gap: $sp-16;
 
   a {
+    font-family: $font-mono;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.08em;
