@@ -30,9 +30,7 @@ Amorphous Engineering is a group that builds software to make complex hardware f
 
 ## OPAL
 
-**Operations, Procedures, Assets, Logistics** — an ERP and MES system for small hardware teams. OPAL runs on any computer in any environment: a shitty ThinkPad in the Mojave Desert, a Raspberry Pi in your closet, or an exe.dev VM for access anywhere.
-
-Modules cover parts databases, inventory tracking, versioned procedures with step-by-step execution, procurement workflows, and issue tracking. Onshape CAD integration provides bidirectional BOM and metadata sync.
+**Operations, Procedures, Assets, Logistics** — an ERP and MES system for small hardware teams. OPAL runs on any computer in any environment: a shitty ThinkPad in the Mojave Desert, a Raspberry Pi in your closet, or a container in the cloud
 
 <a href="https://github.com/amorphous-engineering/OPAL" class="product-link">View on GitHub</a>
 
